@@ -1,11 +1,8 @@
-# dev-guide
-All the interesting information for a good developer.
-
 # APIs publicas
 - https://github.com/public-apis/public-apis
 
 # 𝗦𝗤𝗟
-[𝗧𝗼𝗽 𝟮𝟬 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝘆 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 by Dr Milan Milanović](https://twitter.com/milan_milanovic/status/1758831924380880968?s=12&t=D4rOQTwN9j2NygNchswAxA)
+- [𝗧𝗼𝗽 𝟮𝟬 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝘆 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 by Dr Milan Milanović](https://twitter.com/milan_milanovic/status/1758831924380880968?s=12&t=D4rOQTwN9j2NygNchswAxA)
 1. Create an index on huge tables (>1.000.000) rows
 2. Use EXIST() instead of COUNT() to find an element in the table
 3. SELECT fields instead of using SELECT *
