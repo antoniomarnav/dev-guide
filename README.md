@@ -1,5 +1,5 @@
 # APIs publicas
-- https://github.com/public-apis/public-apis
+- [Repo genérico](https://github.com/public-apis/public-apis)
 - [Gobierno de España](https://opendata.esri.es/)
 - [Estado Español](https://datos.gob.es/es)
 
